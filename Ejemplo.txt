@@ -1,3 +1,11 @@
 Hola Mundo
 
 Primer cambio
+
+git add . //Añade todo archivo que hayas cambiado
+git commit -m ""//Guardas los archivos con un comentario de forma local
+git push origin rama //Subes los cambios al repositorio
+
+
+Crear una nueva rama
+git checkout -b NombreRama
